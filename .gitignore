@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+efficientnetv2-m/
+
+projects/Gastric-Carcinoma/Gastric-Carcinoma-Images/
+
