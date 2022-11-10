@@ -71,8 +71,8 @@ The  <b>2_preprocessed_data</b> dataset contains the stage1 and stage2 directori
 <br>
 <br>
 
-1.We have created <b>Image-dataset-master</b> by using <a href="./projects/Gastric-carcinoma/DatasetCategorizer.py">DatasetCategorizer.py</a> and 
-<a href="./projects/Gastric-carcinoma/train.csv">train.csv</a> file which specifies a category for each image 
+1. We have created <b>Image-dataset-master</b> by using <a href="./projects/Gastric-Carcinoma/DatasetCategorizer.py">DatasetCategorizer.py</a> and 
+<a href="./projects/Gastric-Carcinoma/train.csv">train.csv</a> file which specifies a category for each image 
 in the <b>stage1/p_image</b> and <b>stage2/p_image</b> directories,
 .<br>
 <pre>
@@ -82,8 +82,8 @@ Image-dataset-master
   └─category_2
 </pre>
 
-2. We have create <b>Gastric-carcinoma-Images</b> dataset from <b>mage-dataset-master</b> by using <a 
-href="./projects/Gastric-carcinoma/split_master.py">split_master.py</a>.
+2. We have create <b>Gastric-Carcinoma-Images</b> dataset from <b>mage-dataset-master</b> by using <a 
+href="./projects/Gastric-Carcinoma/split_master.py">split_master.py</a>.
 <br>
 
 <pre>
