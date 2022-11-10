@@ -1,4 +1,4 @@
-<h2>EfficientNet-EfficientNet-Gastric-Carcinoma (Updated: 2022/11/11)</h2>
+<h2>EfficientNet-Gastric-Carcinoma (Updated: 2022/11/11)</h2>
 <a href="#1">1 EfficientNetV2 Gastric Carcinoma Classification </a><br>
 <a href="#1.1">1.1 Clone repository</a><br>
 <a href="#1.2">1.2 Prepare Gastric Carcinoma dataset</a><br>
